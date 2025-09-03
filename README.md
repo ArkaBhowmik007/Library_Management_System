@@ -2,6 +2,8 @@
 
 A simple **SQL-based Library Management System** designed to manage students, books, and borrowing transactions. This project demonstrates the use of **relational database design** with constraints such as primary keys, foreign keys, uniqueness, and checks.
 
+<img src="/Library.jpg" alt="Library/">
+
 ---
 ## 🚀 Features
 
