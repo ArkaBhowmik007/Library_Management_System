@@ -3,7 +3,6 @@
 A simple **SQL-based Library Management System** designed to manage students, books, and borrowing transactions. This project demonstrates the use of **relational database design** with constraints such as primary keys, foreign keys, uniqueness, and checks.
 
 ---
-
 ## 🚀 Features
 
 * **Student Management**: Store details like name, course, year of study, and unique email ID.
@@ -90,6 +89,10 @@ pie showData
 ---
 
 ## 🗂️ Entity Relationship Diagram (ERD)
+
+
+<img src="/Entity Relationship Diagram.PNG" alt="Entity_Relationship_Diagram/">
+
 
 ```mermaid
 erDiagram
